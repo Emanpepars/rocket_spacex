@@ -29,9 +29,6 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.behance.net/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303415/behance-2-logo.svg" alt="behance" width="40" height="40"/> 
   </a>
